@@ -1,4 +1,4 @@
-![logo](https://github.com/zairz7018/hi/blob/4792e162e5f7bdc36ee8179be4d8f5a4c8578479/banner.png)
+
 <h1 align="center">Hi 👋, I'm Zakarya</h1>
 <h3 align="center">A passionate full stack developer from Morroco</h3>
 
