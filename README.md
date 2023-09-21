@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zakarya</h1>
 <h3 align="center">A passionate full stack developer from Morroco</h3>
 
-<img   alt="coding" src="https://miro.medium.com/v2/resize:fit:750/0*MKInOCEv6EO5dpoS.gif">
+<img alt="UI Developer" width="1000" height="532" data-id="4948736" data-animated-url="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" skip_resize="true" srcset="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 320w, https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 400w, https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 450w, https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 640w, https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 700w, https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 800w, https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif 768w" sizes="(max-width: 919px) 100vw, max(768px, 98vh)" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zairz7018&label=Profile%20views&color=0e75b6&style=flat" alt="zairz7018" /> </p>
 
